@@ -14,7 +14,6 @@ ojhub/
 
 ```bash
 cd backend
-cp .env.example .env   # edit MONGO_URI / JWT_SECRET as needed
 npm install
 npm run dev             # starts on http://localhost:5000
 ```
@@ -23,7 +22,7 @@ npm run dev             # starts on http://localhost:5000
 
 ```bash
 cd frontend
-cp .env.example .env    # points to the backend API
+.env                     # points to the backend API
 npm install
 npm run dev              # starts on http://localhost:5173
 ```
