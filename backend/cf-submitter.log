@@ -1,0 +1,370 @@
+[2026-08-09T13:20:33.068Z] Starting Codeforces judging for submission 6a787ea0096419d66258375d (Problem: CF-4A)...
+[2026-08-09T13:20:33.074Z] Attempting to log in as ojhub...
+[2026-08-09T13:20:33.401Z] GET /enter status: 403
+[2026-08-09T13:20:33.403Z] HTML snapshot: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="content-security-policy" content="default-src &#39;none&#39;; script-src &#39;nonce-R7Do4kjhBK5kiAPRUhISxY&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font
+[2026-08-09T13:20:33.404Z] Error during judging of 6a787ea0096419d66258375d: Could not extract CSRF token from Codeforces login page.
+Stack: Error: Could not extract CSRF token from Codeforces login page.
+    at loginToCodeforces (/home/potato/Downloads/ojhub/backend/utils/codeforcesSubmitter.js:85:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async runCodeforcesSubmission (/home/potato/Downloads/ojhub/backend/utils/codeforcesSubmitter.js:308:19)
+[2026-08-09T13:21:25.512Z] Starting Codeforces judging for submission 6a787ed5096419d662583765 (Problem: CF-4A)...
+[2026-08-09T13:21:25.513Z] Attempting to log in as ojhub...
+[2026-08-09T13:21:25.594Z] GET /enter status: 403
+[2026-08-09T13:21:25.594Z] HTML snapshot: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="content-security-policy" content="default-src &#39;none&#39;; script-src &#39;nonce-HbWGaLfhwiC6I29hSpZSWx&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font
+[2026-08-09T13:21:25.595Z] Error during judging of 6a787ed5096419d662583765: Could not extract CSRF token from Codeforces login page.
+Stack: Error: Could not extract CSRF token from Codeforces login page.
+    at loginToCodeforces (/home/potato/Downloads/ojhub/backend/utils/codeforcesSubmitter.js:85:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async runCodeforcesSubmission (/home/potato/Downloads/ojhub/backend/utils/codeforcesSubmitter.js:308:19)
+[2026-08-09T13:32:20.804Z] Starting Codeforces judging for submission 6a788164096419d66258376d (Problem: CF-4A)...
+[2026-08-09T13:32:20.806Z] Attempting to log in as ojhub...
+[2026-08-09T13:32:21.215Z] GET /enter status: 403
+[2026-08-09T13:32:21.215Z] HTML snapshot: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="content-security-policy" content="default-src &#39;none&#39;; script-src &#39;nonce-M4XsT4DcFqMuSuwoKvldk4&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font
+[2026-08-09T13:32:21.216Z] Error during judging of 6a788164096419d66258376d: Could not extract CSRF token from Codeforces login page.
+Stack: Error: Could not extract CSRF token from Codeforces login page.
+    at loginToCodeforces (/home/potato/Downloads/ojhub/backend/utils/codeforcesSubmitter.js:85:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async runCodeforcesSubmission (/home/potato/Downloads/ojhub/backend/utils/codeforcesSubmitter.js:308:19)
+[2026-08-09T13:49:25.225Z] Starting Codeforces judging for submission 6a78856425c212d05852e8ae (Problem: CF-4A)...
+[2026-08-09T13:49:25.227Z] Attempting to log in as ojhub...
+[2026-08-09T13:49:25.454Z] GET /enter status: 403
+[2026-08-09T13:49:25.454Z] HTML snapshot: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="content-security-policy" content="default-src &#39;none&#39;; script-src &#39;nonce-hEn1BZ8OvZKGZ9zd7tw8zw&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font
+[2026-08-09T13:49:25.454Z] Error during judging of 6a78856425c212d05852e8ae: Could not extract CSRF token from Codeforces login page.
+Stack: Error: Could not extract CSRF token from Codeforces login page.
+    at loginToCodeforces (/home/potato/Downloads/ojhub/backend/utils/codeforcesSubmitter.js:107:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async runCodeforcesSubmission (/home/potato/Downloads/ojhub/backend/utils/codeforcesSubmitter.js:339:21)
+[2026-08-09T13:57:02.300Z] Starting Codeforces judging for submission 6a78872eb673c9b8bc7b930c (Problem: CF-4A)...
+[2026-08-09T13:57:02.301Z] Attempting to log in as ojhub...
+[2026-08-09T13:57:02.382Z] GET /enter status: 403
+[2026-08-09T13:57:02.382Z] 
+============================================================
+[CF Submitter] CLOUDFLARE BLOCK DETECTED (HTTP 403)
+To solve this, you MUST extract your browser session cookie
+and add it to your backend/.env file as CODEFORCES_COOKIE.
+
+Steps to get your Codeforces cookie:
+1. Open your browser and log in to https://codeforces.com
+2. Open DevTools (F12) -> Network tab -> Refresh the page
+3. Click on any request to codeforces.com
+4. Under 'Request Headers', copy the value of the 'Cookie' header
+5. Paste it in backend/.env:
+   CODEFORCES_COOKIE=your_copied_cookie_string
+============================================================
+
+[2026-08-09T13:57:02.383Z] Error during judging of 6a78872eb673c9b8bc7b930c: Could not extract CSRF token from Codeforces login page (blocked by Cloudflare).
+Stack: Error: Could not extract CSRF token from Codeforces login page (blocked by Cloudflare).
+    at loginToCodeforces (/home/potato/Downloads/ojhub/backend/utils/codeforcesSubmitter.js:123:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async runCodeforcesSubmission (/home/potato/Downloads/ojhub/backend/utils/codeforcesSubmitter.js:355:21)
+[2026-08-09T13:58:10.279Z] Starting Codeforces judging for submission 6a788772b673c9b8bc7b9314 (Problem: CF-4A)...
+[2026-08-09T13:58:10.280Z] Attempting to log in as ojhub...
+[2026-08-09T13:58:10.319Z] GET /enter status: 403
+[2026-08-09T13:58:10.319Z] 
+============================================================
+[CF Submitter] CLOUDFLARE BLOCK DETECTED (HTTP 403)
+To solve this, you MUST extract your browser session cookie
+and add it to your backend/.env file as CODEFORCES_COOKIE.
+
+Steps to get your Codeforces cookie:
+1. Open your browser and log in to https://codeforces.com
+2. Open DevTools (F12) -> Network tab -> Refresh the page
+3. Click on any request to codeforces.com
+4. Under 'Request Headers', copy the value of the 'Cookie' header
+5. Paste it in backend/.env:
+   CODEFORCES_COOKIE=your_copied_cookie_string
+============================================================
+
+[2026-08-09T13:58:10.319Z] Error during judging of 6a788772b673c9b8bc7b9314: Could not extract CSRF token from Codeforces login page (blocked by Cloudflare).
+Stack: Error: Could not extract CSRF token from Codeforces login page (blocked by Cloudflare).
+    at loginToCodeforces (/home/potato/Downloads/ojhub/backend/utils/codeforcesSubmitter.js:123:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async runCodeforcesSubmission (/home/potato/Downloads/ojhub/backend/utils/codeforcesSubmitter.js:355:21)
+[2026-08-09T14:03:57.477Z] Starting Codeforces judging for submission 6a7888cd5e7e25ee9e8653c2 (Problem: CF-4A)...
+[2026-08-09T14:03:57.477Z] Using custom Codeforces cookie from environment variables...
+[2026-08-09T14:03:57.559Z] Detected Codeforces account handle: null
+[2026-08-09T14:03:57.559Z] GET https://codeforces.com/contest/4/submit to extract submission CSRF...
+[2026-08-09T14:03:57.596Z] Error during judging of 6a7888cd5e7e25ee9e8653c2: Could not fetch CSRF token for Codeforces submit page.
+Stack: Error: Could not fetch CSRF token for Codeforces submit page.
+    at submitToCodeforces (/home/potato/Downloads/ojhub/backend/utils/codeforcesSubmitter.js:211:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async runCodeforcesSubmission (/home/potato/Downloads/ojhub/backend/utils/codeforcesSubmitter.js:423:60)
+[2026-08-09T14:04:16.012Z] Starting Codeforces judging for submission 6a7888df5e7e25ee9e8653d0 (Problem: CF-4A)...
+[2026-08-09T14:04:16.057Z] Session expired or invalid.
+[2026-08-09T14:04:16.057Z] CODEFORCES_COOKIE may have expired. Re-initializing from environment cookie...
+[2026-08-09T14:04:16.100Z] Detected Codeforces account handle: null
+[2026-08-09T14:04:16.100Z] GET https://codeforces.com/contest/4/submit to extract submission CSRF...
+[2026-08-09T14:04:16.142Z] Error during judging of 6a7888df5e7e25ee9e8653d0: Could not fetch CSRF token for Codeforces submit page.
+Stack: Error: Could not fetch CSRF token for Codeforces submit page.
+    at submitToCodeforces (/home/potato/Downloads/ojhub/backend/utils/codeforcesSubmitter.js:211:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async runCodeforcesSubmission (/home/potato/Downloads/ojhub/backend/utils/codeforcesSubmitter.js:423:60)
+[2026-08-09T14:06:31.985Z] Starting Codeforces judging for submission 6a78896766bdbd36219df002 (Problem: CF-4A)...
+[2026-08-09T14:06:31.986Z] Using custom Codeforces cookie from environment variables...
+[2026-08-09T14:06:32.284Z] Detected Codeforces account handle: null
+[2026-08-09T14:06:32.284Z] GET https://codeforces.com/contest/4/submit to extract submission CSRF...
+[2026-08-09T14:06:32.369Z] Error during judging of 6a78896766bdbd36219df002: Could not fetch CSRF token for Codeforces submit page.
+Stack: Error: Could not fetch CSRF token for Codeforces submit page.
+    at submitToCodeforces (/home/potato/Downloads/ojhub/backend/utils/codeforcesSubmitter.js:216:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async runCodeforcesSubmission (/home/potato/Downloads/ojhub/backend/utils/codeforcesSubmitter.js:428:60)
+[2026-08-09T14:07:45.319Z] Starting Codeforces judging for submission 6a7889b11c83eb3a88d5068c (Problem: CF-4A)...
+[2026-08-09T14:07:45.320Z] Using custom Codeforces cookie from environment variables...
+[2026-08-09T14:07:45.321Z] Parsing session cookies: {"JSESSIONID":"4BABDFB949DB6D7F94E947FE969C5A7F","cf_clearance":"a00ATsuR.k1aKnZYlykuLmf2DKBKHCvFM1WsLnI.hkE-1786283639-1.2.1.1-z1lec3mMYD1B5U.BxHWczukJ2RXa7tEQymJEo8VCid9nQT1ox80c4p5ohdpM4BeiM2TMVhidRf7Xt8cLFB3FIQf6hqaGvlDR2RhzjkMaDnXBWcvhkegMmoH5wDWtPFnZqV10kAOaoZgpt2Dfz0HUwBfs6l925RbJKHDomfjL.ooGi1T.D40Fp4Ee7YCRq7Po13I6ltgqFylpHt63ZhOXZGHBUhKhzfGv96zW0s_gEIZ9cIkFf4b.GJZHw40nYrkQZktmSnawnBRc2DgXOvOvhuClY.UGyMEIpU5H7rakt5vCN9JrpdC10uifr5pwoh0ZkkaJfpe50I7YNXhELXM5RLHH06KsmIJtaJpD7_q6AgZLQx0VmHRMaeJubHh5j7NUyk7N0apk0IJY2pMMkHkNqbp3VyXFibZ_8Zv_WIE51X5ohEEJ8.Z_VGAbIpUQbCzEb1bR9qce4quymvOjxjNaGVF96C8JCpfVn866wxJYMmKS05L33M2dENGul_ckQZrRF4Kskh9OaDR5rR0AZS_tUQ","39ce7":"CFS1fu38"}
+[2026-08-09T14:07:45.392Z] settings page GET status: 403
+[2026-08-09T14:07:45.392Z] Settings page blocked by Cloudflare (403).
+[2026-08-09T14:07:45.393Z] Detected Codeforces account handle: null
+[2026-08-09T14:07:45.393Z] GET https://codeforces.com/contest/4/submit to extract submission CSRF...
+[2026-08-09T14:07:45.430Z] Error during judging of 6a7889b11c83eb3a88d5068c: Could not fetch CSRF token for Codeforces submit page.
+Stack: Error: Could not fetch CSRF token for Codeforces submit page.
+    at submitToCodeforces (/home/potato/Downloads/ojhub/backend/utils/codeforcesSubmitter.js:216:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async runCodeforcesSubmission (/home/potato/Downloads/ojhub/backend/utils/codeforcesSubmitter.js:435:60)
+[2026-08-09T14:16:55.623Z] Starting Codeforces judging for submission 6a788bd7b59582f546030a1d (Problem: CF-4A)...
+[2026-08-09T14:16:55.624Z] Using custom Codeforces cookie from environment variables...
+[2026-08-09T14:16:55.624Z] [Puppeteer] Validating session cookies...
+[2026-08-09T14:16:58.204Z] Using Codeforces handle: ojhub
+[2026-08-09T14:16:58.205Z] [Puppeteer] Submitting solution for Contest 4, Index A...
+[2026-08-09T14:17:01.164Z] [Puppeteer] Setting form values...
+[2026-08-09T14:17:01.195Z] [Puppeteer] Submitting Codeforces form...
+[2026-08-09T14:17:03.882Z] [Puppeteer Error] Redirect URL: https://codeforces.com/contest/4/submit?adcd1e=caf4fyhwepfj48&csrf_token=462b97a44bb4b6e6db0e479e1760e402
+[2026-08-09T14:17:04.007Z] Error during judging of 6a788bd7b59582f546030a1d: Submission sent but could not extract Codeforces Submission ID.
+Stack: Error: Submission sent but could not extract Codeforces Submission ID.
+    at submitToCodeforcesViaPuppeteer (/home/potato/Downloads/ojhub/backend/utils/codeforcesSubmitter.js:221:11)
+    at async runCodeforcesSubmission (/home/potato/Downloads/ojhub/backend/utils/codeforcesSubmitter.js:362:20)
+[2026-08-09T14:20:33.328Z] Starting Codeforces judging for submission 6a788cb0b59582f546030a2d (Problem: CF-4A)...
+[2026-08-09T14:20:33.329Z] [Puppeteer] Validating session cookies...
+[2026-08-09T14:20:35.569Z] Using Codeforces handle: ojhub
+[2026-08-09T14:20:35.569Z] [Puppeteer] Submitting solution for Contest 4, Index A...
+[2026-08-09T14:20:38.626Z] [Puppeteer] Setting form values...
+[2026-08-09T14:20:38.657Z] [Puppeteer] Submitting Codeforces form...
+[2026-08-09T14:20:40.663Z] [Puppeteer Error] Redirect URL: https://codeforces.com/contest/4/submit?adcd1e=caf4fvennvajn2&csrf_token=462b97a44bb4b6e6db0e479e1760e402
+[2026-08-09T14:20:40.722Z] Error during judging of 6a788cb0b59582f546030a2d: Submission sent but could not extract Codeforces Submission ID.
+Stack: Error: Submission sent but could not extract Codeforces Submission ID.
+    at submitToCodeforcesViaPuppeteer (/home/potato/Downloads/ojhub/backend/utils/codeforcesSubmitter.js:221:11)
+    at async runCodeforcesSubmission (/home/potato/Downloads/ojhub/backend/utils/codeforcesSubmitter.js:362:20)
+[2026-08-09T14:25:42.067Z] Starting Codeforces judging for submission 6a788de532abf99270360f5e (Problem: CF-4A)...
+[2026-08-09T14:25:42.069Z] Using custom Codeforces cookie from environment variables...
+[2026-08-09T14:25:42.069Z] [Puppeteer] Validating session cookies...
+[2026-08-09T14:25:44.414Z] Using Codeforces handle: ojhub
+[2026-08-09T14:25:44.415Z] [Puppeteer] Submitting solution for Contest 4, Index A...
+[2026-08-09T14:25:46.540Z] [Puppeteer] Setting form values...
+[2026-08-09T14:25:46.575Z] [Puppeteer] Waiting 3 seconds for anti-bot tokens to generate...
+[2026-08-09T14:25:49.576Z] [Puppeteer] Submitting Codeforces form...
+[2026-08-09T14:25:51.144Z] [Puppeteer] Landed on URL: https://codeforces.com/contest/4/submit?adcd1e=caf4foetp8ygqa&csrf_token=462b97a44bb4b6e6db0e479e1760e402
+[2026-08-09T14:25:51.144Z] [Puppeteer] Submission rejected. Scraping error message...
+[2026-08-09T14:25:51.205Z] Error during judging of 6a788de532abf99270360f5e: Codeforces submission form validation failed (returned to submit page).
+Stack: Error: Codeforces submission form validation failed (returned to submit page).
+    at submitToCodeforcesViaPuppeteer (/home/potato/Downloads/ojhub/backend/utils/codeforcesSubmitter.js:209:13)
+    at async runCodeforcesSubmission (/home/potato/Downloads/ojhub/backend/utils/codeforcesSubmitter.js:379:20)
+[2026-08-09T14:26:57.331Z] Starting Codeforces judging for submission 6a788e3132932317ad1e0054 (Problem: CF-4A)...
+[2026-08-09T14:26:57.332Z] Using custom Codeforces cookie from environment variables...
+[2026-08-09T14:26:57.332Z] [Puppeteer] Validating session cookies...
+[2026-08-09T14:26:59.655Z] Using Codeforces handle: ojhub
+[2026-08-09T14:26:59.655Z] [Puppeteer] Submitting solution for Contest 4, Index A...
+[2026-08-09T14:27:01.644Z] [Puppeteer] Setting form values...
+[2026-08-09T14:27:01.680Z] [Puppeteer] Waiting 3 seconds for anti-bot tokens to generate...
+[2026-08-09T14:27:04.680Z] [Puppeteer] Submitting Codeforces form...
+[2026-08-09T14:27:06.887Z] [Puppeteer] Landed on URL: https://codeforces.com/contest/4/submit?adcd1e=caf4fij40j3jhn&csrf_token=462b97a44bb4b6e6db0e479e1760e402
+[2026-08-09T14:27:06.888Z] [Puppeteer] Submission rejected. Scraping error message...
+[2026-08-09T14:27:06.957Z] Error during judging of 6a788e3132932317ad1e0054: Codeforces submission form validation failed (returned to submit page).
+Stack: Error: Codeforces submission form validation failed (returned to submit page).
+    at submitToCodeforcesViaPuppeteer (/home/potato/Downloads/ojhub/backend/utils/codeforcesSubmitter.js:209:13)
+    at async runCodeforcesSubmission (/home/potato/Downloads/ojhub/backend/utils/codeforcesSubmitter.js:379:20)
+[2026-08-09T14:29:31.035Z] Starting Codeforces judging for submission 6a788eca32932317ad1e0064 (Problem: CF-4A)...
+[2026-08-09T14:29:31.036Z] [Puppeteer] Validating session cookies...
+[2026-08-09T14:29:32.985Z] Using Codeforces handle: ojhub
+[2026-08-09T14:29:32.986Z] [Puppeteer] Submitting solution for Contest 4, Index A...
+[2026-08-09T14:29:35.253Z] [Puppeteer] Setting form values...
+[2026-08-09T14:29:35.273Z] [Puppeteer] Waiting 3 seconds for anti-bot tokens to generate...
+[2026-08-09T14:29:38.273Z] [Puppeteer] Submitting Codeforces form...
+[2026-08-09T14:29:39.912Z] [Puppeteer] Landed on URL: https://codeforces.com/contest/4/submit?adcd1e=caf4fpven2ddgr&csrf_token=462b97a44bb4b6e6db0e479e1760e402
+[2026-08-09T14:29:39.913Z] [Puppeteer] Submission rejected. Scraping error message...
+[2026-08-09T14:29:39.976Z] Error during judging of 6a788eca32932317ad1e0064: Codeforces submission form validation failed (returned to submit page).
+Stack: Error: Codeforces submission form validation failed (returned to submit page).
+    at submitToCodeforcesViaPuppeteer (/home/potato/Downloads/ojhub/backend/utils/codeforcesSubmitter.js:209:13)
+    at async runCodeforcesSubmission (/home/potato/Downloads/ojhub/backend/utils/codeforcesSubmitter.js:379:20)
+[2026-08-09T14:33:05.259Z] Starting Codeforces judging for submission 6a788fa1f6e35ae08fea5976 (Problem: CF-231A)...
+[2026-08-09T14:33:05.259Z] Using custom Codeforces cookie from environment variables...
+[2026-08-09T14:33:05.260Z] [Puppeteer] Validating session cookies...
+[2026-08-09T14:33:08.299Z] Using Codeforces handle: ojhub
+[2026-08-09T14:33:08.300Z] [Puppeteer] Submitting solution for Contest 231, Index A...
+[2026-08-09T14:33:10.775Z] [Puppeteer] Setting form values...
+[2026-08-09T14:33:10.806Z] [Puppeteer] Waiting 3 seconds for anti-bot tokens to generate...
+[2026-08-09T14:33:13.807Z] [Puppeteer] Submitting Codeforces form...
+[2026-08-09T14:33:16.557Z] [Puppeteer] Landed on URL: https://codeforces.com/contest/231/submit?adcd1e=caf4ftj8ed33oi&csrf_token=462b97a44bb4b6e6db0e479e1760e402
+[2026-08-09T14:33:16.558Z] [Puppeteer] Submission rejected. Capturing error screenshot...
+[2026-08-09T14:33:16.657Z] [Puppeteer] Error screenshot saved to: /home/potato/Downloads/ojhub/backend/codeforces_error.png
+[2026-08-09T14:33:16.726Z] Error during judging of 6a788fa1f6e35ae08fea5976: Codeforces submission form validation failed (returned to submit page).
+Stack: Error: Codeforces submission form validation failed (returned to submit page).
+    at submitToCodeforcesViaPuppeteer (/home/potato/Downloads/ojhub/backend/utils/codeforcesSubmitter.js:222:13)
+    at async runCodeforcesSubmission (/home/potato/Downloads/ojhub/backend/utils/codeforcesSubmitter.js:392:20)
+[2026-08-09T14:39:29.234Z] [Judge0 Submitter] Starting Judge0 execution for submission 6a789121ed433299039f45fd (Problem: CF-231A)...
+[2026-08-09T14:39:29.284Z] [Judge0 Submitter] Found 2 test cases to evaluate...
+[2026-08-09T14:39:29.285Z] [Judge0 Submitter] Running test case 1/2...
+[2026-08-09T14:39:37.259Z] [Test Case 1] Status ID: 3 | Time: 3ms | Memory: 1036KB
+[2026-08-09T14:39:37.259Z] [Judge0 Submitter] Running test case 2/2...
+[2026-08-09T14:39:40.527Z] [Test Case 2] Status ID: 3 | Time: 3ms | Memory: 1696KB
+[2026-08-09T14:39:40.627Z] [Judge0 Submitter] Judging completed for 6a789121ed433299039f45fd: Accepted
+[2026-08-09T14:40:29.062Z] [Judge0 Submitter] Starting Judge0 execution for submission 6a78915ced433299039f4613 (Problem: CF-231A)...
+[2026-08-09T14:40:29.165Z] [Judge0 Submitter] Found 2 test cases to evaluate...
+[2026-08-09T14:40:29.165Z] [Judge0 Submitter] Running test case 1/2...
+[2026-08-09T14:40:32.444Z] [Test Case 1] Status ID: 3 | Time: 3ms | Memory: 1172KB
+[2026-08-09T14:40:32.445Z] [Test Case 1] Output mismatch.
+Expected:
+"2"
+Got:
+"3"
+[2026-08-09T14:40:32.546Z] [Judge0 Submitter] Judging completed for 6a78915ced433299039f4613: Wrong Answer
+[2026-08-10T16:54:40.362Z] [Judge0 Submitter] Starting Judge0 execution for submission 6a7a0250b36a87d3c0bda07a (Problem: CF-4A)...
+[2026-08-10T16:54:40.447Z] [Judge0 Submitter] Found 3 test cases to evaluate...
+[2026-08-10T16:54:40.448Z] [Judge0 Submitter] Running test case 1/3...
+[2026-08-10T16:54:42.731Z] [Test Case 1] Status ID: 11 | Time: 1118ms | Memory: 53268KB
+[2026-08-10T16:54:42.731Z] [Test Case 1] Runtime Error:
+whoami: cannot find name for user ID 9970355
+/box/script.js:8
+  throw new Error('ERR: ' + e.message);
+  ^
+
+Error: ERR: Command failed: whoami
+whoami: cannot find name for user ID 9970355
+
+    at Object.<anonymous> (/box/script.js:8:9)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.17.0
+
+[2026-08-10T16:54:42.811Z] [Judge0 Submitter] Judging completed for 6a7a0250b36a87d3c0bda07a: Runtime Error
+[2026-08-10T16:54:53.264Z] [Judge0 Submitter] Starting Judge0 execution for submission 6a7a025db36a87d3c0bda088 (Problem: CF-4A)...
+[2026-08-10T16:54:53.344Z] [Judge0 Submitter] Found 3 test cases to evaluate...
+[2026-08-10T16:54:53.345Z] [Judge0 Submitter] Running test case 1/3...
+[2026-08-10T16:54:55.219Z] [Test Case 1] Status ID: 11 | Time: 1097ms | Memory: 52964KB
+[2026-08-10T16:54:55.220Z] [Test Case 1] Runtime Error:
+node:fs:2368
+    return binding.writeFileUtf8(
+                   ^
+
+Error: ENOENT: no such file or directory, open '/home/potato/Downloads/ojhub/frontend/public/rce_out.txt'
+    at Object.writeFileSync (node:fs:2368:20)
+    at Object.<anonymous> (/box/script.js:8:6)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+    at node:internal/main/run_main_module:28:49 {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/home/potato/Downloads/ojhub/frontend/public/rce_out.txt'
+}
+
+Node.js v20.17.0
+
+[2026-08-10T16:54:55.299Z] [Judge0 Submitter] Judging completed for 6a7a025db36a87d3c0bda088: Runtime Error
+[2026-08-10T16:55:05.790Z] [Judge0 Submitter] Starting Judge0 execution for submission 6a7a0269b36a87d3c0bda094 (Problem: CF-4A)...
+[2026-08-10T16:55:05.868Z] [Judge0 Submitter] Found 3 test cases to evaluate...
+[2026-08-10T16:55:05.868Z] [Judge0 Submitter] Running test case 1/3...
+[2026-08-10T16:55:07.736Z] [Test Case 1] Status ID: 11 | Time: 1113ms | Memory: 52852KB
+[2026-08-10T16:55:07.736Z] [Test Case 1] Runtime Error:
+node:internal/modules/cjs/loader:1228
+  throw err;
+  ^
+
+Error: Cannot find module 'mongoose'
+Require stack:
+- /box/script.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Module._load (node:internal/modules/cjs/loader:1051:27)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/box/script.js:2:18)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/box/script.js' ]
+}
+
+Node.js v20.17.0
+
+[2026-08-10T16:55:07.817Z] [Judge0 Submitter] Judging completed for 6a7a0269b36a87d3c0bda094: Runtime Error
+[2026-08-10T16:55:28.271Z] [Judge0 Submitter] Starting Judge0 execution for submission 6a7a0280b36a87d3c0bda0a2 (Problem: CF-4A)...
+[2026-08-10T16:55:28.353Z] [Judge0 Submitter] Found 3 test cases to evaluate...
+[2026-08-10T16:55:28.353Z] [Judge0 Submitter] Running test case 1/3...
+[2026-08-10T16:55:38.373Z] [Judge0 Submitter] Error during judging of 6a7a0280b36a87d3c0bda0a2: timeout of 10000ms exceeded
+Stack: AxiosError: timeout of 10000ms exceeded
+    at createTimeoutError (/home/potato/Downloads/ojhub/backend/node_modules/axios/dist/node/axios.cjs:3957:14)
+    at RedirectableRequest.handleTimeout (/home/potato/Downloads/ojhub/backend/node_modules/axios/dist/node/axios.cjs:4485:15)
+    at RedirectableRequest.emit (node:events:509:28)
+    at Timeout._onTimeout (/home/potato/Downloads/ojhub/backend/node_modules/follow-redirects/index.js:233:12)
+    at listOnTimeout (node:internal/timers:605:17)
+    at process.processTimers (node:internal/timers:541:7)
+    at Axios.request (/home/potato/Downloads/ojhub/backend/node_modules/axios/dist/node/axios.cjs:5864:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async executeOnJudge0 (/home/potato/Downloads/ojhub/backend/utils/codeforcesSubmitter.js:61:20)
+    at async runCodeforcesSubmission (/home/potato/Downloads/ojhub/backend/utils/codeforcesSubmitter.js:112:22)
+[2026-08-10T17:16:20.040Z] [Judge0 Submitter] Starting Judge0 execution for submission 6a7a0763b36a87d3c0bda104 (Problem: OJH102)...
+[2026-08-10T17:16:20.145Z] [Judge0 Submitter] Found 2 test cases to evaluate...
+[2026-08-10T17:16:20.145Z] [Judge0 Submitter] Running test case 1/2...
+[2026-08-10T17:16:23.534Z] [Test Case 1] Status ID: 3 | Time: 3ms | Memory: 2024KB
+[2026-08-10T17:16:23.534Z] [Test Case 1] Output mismatch.
+Expected:
+"89"
+Got:
+""
+[2026-08-10T17:16:23.710Z] [Judge0 Submitter] Judging completed for 6a7a0763b36a87d3c0bda104: Wrong Answer
+[2026-08-10T17:18:05.105Z] [Judge0 Submitter] Starting Judge0 execution for submission 6a7a07ccb36a87d3c0bda127 (Problem: OJH102)...
+[2026-08-10T17:18:05.206Z] [Judge0 Submitter] Found 2 test cases to evaluate...
+[2026-08-10T17:18:05.206Z] [Judge0 Submitter] Running test case 1/2...
+[2026-08-10T17:18:08.486Z] [Test Case 1] Status ID: 3 | Time: 3ms | Memory: 1064KB
+[2026-08-10T17:18:08.486Z] [Judge0 Submitter] Running test case 2/2...
+[2026-08-10T17:18:11.658Z] [Test Case 2] Status ID: 3 | Time: 3ms | Memory: 1260KB
+[2026-08-10T17:18:11.760Z] [Judge0 Submitter] Judging completed for 6a7a07ccb36a87d3c0bda127: Accepted
+[2026-08-11T01:52:11.897Z] [Judge0 Submitter] Starting Judge0 execution for submission 6a7a804bfa3d8a04b2a8cd52 (Problem: CF-116A)...
+[2026-08-11T01:52:12.031Z] [Judge0 Submitter] Found 1 test cases to evaluate...
+[2026-08-11T01:52:12.031Z] [Judge0 Submitter] Running test case 1/1...
+[2026-08-11T01:52:16.209Z] [Test Case 1] Status ID: 3 | Time: 3ms | Memory: 1616KB
+[2026-08-11T01:52:16.209Z] [Test Case 1] Output mismatch.
+Expected:
+"6"
+Got:
+""
+[2026-08-11T01:52:16.266Z] [Judge0 Submitter] Judging completed for 6a7a804bfa3d8a04b2a8cd52: Wrong Answer
+[2026-08-11T01:54:57.209Z] [Judge0 Submitter] Starting Judge0 execution for submission 6a7a80f1fa3d8a04b2a8cd6e (Problem: CF-116A)...
+[2026-08-11T01:54:57.260Z] [Judge0 Submitter] Found 1 test cases to evaluate...
+[2026-08-11T01:54:57.261Z] [Judge0 Submitter] Running test case 1/1...
+[2026-08-11T01:55:00.507Z] [Test Case 1] Status ID: 3 | Time: 3ms | Memory: 1316KB
+[2026-08-11T01:55:00.507Z] [Test Case 1] Output mismatch.
+Expected:
+"6"
+Got:
+""
+[2026-08-11T01:55:00.558Z] [Judge0 Submitter] Judging completed for 6a7a80f1fa3d8a04b2a8cd6e: Wrong Answer
+[2026-08-11T01:56:38.688Z] [Judge0 Submitter] Starting Judge0 execution for submission 6a7a8156fa3d8a04b2a8cd88 (Problem: CF-116A)...
+[2026-08-11T01:56:38.791Z] [Judge0 Submitter] Found 1 test cases to evaluate...
+[2026-08-11T01:56:38.794Z] [Judge0 Submitter] Running test case 1/1...
+[2026-08-11T01:56:42.076Z] [Test Case 1] Status ID: 6 | Time: 0ms | Memory: 0KB
+[2026-08-11T01:56:42.076Z] [Test Case 1] Compilation Error:
+main.cpp: In function 'int main()':
+main.cpp:5:5: error: 'compilation_error_here' was not declared in this scope
+    5 |     compilation_error_here;
+      |     ^~~~~~~~~~~~~~~~~~~~~~
+
+[2026-08-11T01:56:42.126Z] [Judge0 Submitter] Judging completed for 6a7a8156fa3d8a04b2a8cd88: Compilation Error
+[2026-08-12T16:41:44.901Z] [Judge0 Submitter] Starting Judge0 execution for submission 6a7ca248d00240c622d8b8d3 (Problem: CF-59A)...
+[2026-08-12T16:41:45.106Z] [Judge0 Submitter] Found 3 test cases to evaluate...
+[2026-08-12T16:41:45.106Z] [Judge0 Submitter] Running test case 1/3...
+[2026-08-12T16:41:48.184Z] [Test Case 1] Status ID: 3 | Time: 3ms | Memory: 1120KB
+[2026-08-12T16:41:48.185Z] [Judge0 Submitter] Running test case 2/3...
+[2026-08-12T16:41:50.713Z] [Test Case 2] Status ID: 3 | Time: 3ms | Memory: 1024KB
+[2026-08-12T16:41:50.713Z] [Judge0 Submitter] Running test case 3/3...
+[2026-08-12T16:41:53.202Z] [Test Case 3] Status ID: 3 | Time: 3ms | Memory: 1092KB
+[2026-08-12T16:41:53.401Z] [Judge0 Submitter] Judging completed for 6a7ca248d00240c622d8b8d3: Accepted
